@@ -1,5 +1,8 @@
-This was made back in December 2024 - January 2025 as a better init script for my old executor 'Stellar'. I decided to put it on github and fetch the script from github instead of having it as a file.
-This env has 95% UNC (this was tested months ago, this may be wrong) and it supports most scripts.
+![Lua](https://img.shields.io/badge/made%20with-Lua-00007D?logo=lua)
+This project was originally created between December 2024 – January 2025 as an improved init script for my old executor Stellar. I decided to upload it to GitHub and load the script from there instead of storing it as a file.
 
-I think it supprots vapev4?
-Enjoy.
+The environment has around 95% UNC support (last tested several months ago, so this may no longer be correct) and t's compatible with most scripts.
+
+It should support Vape V4, but this hasn’t been recently tested.
+
+Enjoy!
